@@ -1,6 +1,4 @@
 {
-    "formatVersion": 1,
-    "exportedAt": 1776510267761,
     "league": {
         "id": "league_1776075838529_1",
         "name": "TXHSFB",
@@ -327,32 +325,7 @@
                 "name": "DFW Showdown"
             }
         ],
-        "protectedPairs": [
-            {
-                "team1Id": "team_1776075838530_58",
-                "team2Id": "team_1776075838530_57"
-            },
-            {
-                "team1Id": "team_1776075838530_49",
-                "team2Id": "team_1776075838530_50"
-            },
-            {
-                "team1Id": "team_1776075838530_50",
-                "team2Id": "team_1776075838530_61"
-            },
-            {
-                "team1Id": "team_1776075838530_53",
-                "team2Id": "team_1776075838530_59"
-            },
-            {
-                "team1Id": "team_1776075838530_51",
-                "team2Id": "team_1776075838530_60"
-            },
-            {
-                "team1Id": "team_1776075838530_52",
-                "team2Id": "team_1776075838530_56"
-            }
-        ],
+        "protectedPairs": [],
         "nationalChampionshipLogoURL": null,
         "subdivisionTeams": [],
         "awardCustomizations": [],
