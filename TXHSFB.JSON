@@ -1,0 +1,466 @@
+{
+    "formatVersion": 1,
+    "exportedAt": 1776510267761,
+    "league": {
+        "id": "league_1776075838529_1",
+        "name": "TXHSFB",
+        "level": "HIGH_SCHOOL",
+        "conferences": [
+            {
+                "id": "conf_1776075838529_4",
+                "name": "Texas",
+                "tier": "POWER",
+                "prestige": 95,
+                "divisions": [],
+                "requiredConferenceGames": 10,
+                "protectedPairs": [
+                    {
+                        "team1Id": "team_1776075838530_58",
+                        "team2Id": "team_1776075838530_57"
+                    },
+                    {
+                        "team1Id": "team_1776075838530_57",
+                        "team2Id": "team_1776075838530_58"
+                    },
+                    {
+                        "team1Id": "team_1776075838530_49",
+                        "team2Id": "team_1776075838530_50"
+                    },
+                    {
+                        "team1Id": "team_1776075838530_50",
+                        "team2Id": "team_1776075838530_49"
+                    },
+                    {
+                        "team1Id": "team_1776075838530_50",
+                        "team2Id": "team_1776075838530_61"
+                    },
+                    {
+                        "team1Id": "team_1776075838530_61",
+                        "team2Id": "team_1776075838530_50"
+                    },
+                    {
+                        "team1Id": "team_1776075838530_53",
+                        "team2Id": "team_1776075838530_59"
+                    },
+                    {
+                        "team1Id": "team_1776075838530_59",
+                        "team2Id": "team_1776075838530_53"
+                    },
+                    {
+                        "team1Id": "team_1776075838530_51",
+                        "team2Id": "team_1776075838530_60"
+                    },
+                    {
+                        "team1Id": "team_1776075838530_60",
+                        "team2Id": "team_1776075838530_51"
+                    },
+                    {
+                        "team1Id": "team_1776075838530_52",
+                        "team2Id": "team_1776075838530_56"
+                    },
+                    {
+                        "team1Id": "team_1776075838530_56",
+                        "team2Id": "team_1776075838530_52"
+                    }
+                ],
+                "conferenceLogoURL": null,
+                "conferenceLogoData": null
+            }
+        ],
+        "teams": [
+            {
+                "id": "team_1776075838530_49",
+                "name": "Duncanville",
+                "mascot": "Panthers",
+                "city": "Duncanville",
+                "primaryColorHex": "#FF0000",
+                "secondaryColorHex": "#0000FF",
+                "tertiaryColorHex": "#FFFFFF",
+                "prestige": 98,
+                "region": "",
+                "conferenceId": "conf_1776075838529_4",
+                "abbreviation": "DUN",
+                "offenseScheme": null,
+                "defenseScheme": null,
+                "logoURL": "https://resources.finalsite.net/images/f_auto,q_auto/v1584613135/duncanvilleisdorg/psyhf45qfq0nslkmxvsg/Athletics_Logo_Red_.png",
+                "logoData": null
+            },
+            {
+                "id": "team_1776075838530_50",
+                "name": "DeSoto",
+                "mascot": "Eagles",
+                "city": "DeSoto",
+                "primaryColorHex": "#008000",
+                "secondaryColorHex": "#FFD700",
+                "tertiaryColorHex": "#FFFFFF",
+                "prestige": 97,
+                "region": "",
+                "conferenceId": "conf_1776075838529_4",
+                "abbreviation": "DES",
+                "offenseScheme": null,
+                "defenseScheme": null,
+                "logoURL": "https://www.txhslogoproject.com/wp-content/uploads/2018/11/DeSoto-Eagles-large.png",
+                "logoData": null
+            },
+            {
+                "id": "team_1776075838530_51",
+                "name": "North Shore",
+                "mascot": "Mustangs",
+                "city": "Houston",
+                "primaryColorHex": "#800000",
+                "secondaryColorHex": "#FFFFFF",
+                "tertiaryColorHex": "#FFFFFF",
+                "prestige": 97,
+                "region": "",
+                "conferenceId": "conf_1776075838529_4",
+                "abbreviation": "NS",
+                "offenseScheme": null,
+                "defenseScheme": null,
+                "logoURL": "https://www.txhslogoproject.com/wp-content/uploads/Galena-Park-North-Shore-Mustangs1-large-1.png",
+                "logoData": null
+            },
+            {
+                "id": "team_1776075838530_52",
+                "name": "Southlake Carroll",
+                "mascot": "Dragons",
+                "city": "Southlake",
+                "primaryColorHex": "#008000",
+                "secondaryColorHex": "#000000",
+                "tertiaryColorHex": "#FFFFFF",
+                "prestige": 96,
+                "region": "",
+                "conferenceId": "conf_1776075838529_4",
+                "abbreviation": "SLC",
+                "offenseScheme": null,
+                "defenseScheme": null,
+                "logoURL": "https://resources.finalsite.net/images/f_auto,q_auto,t_image_size_2/v1662656929/southlakecarrolledu/vgwhx79hgp2zo4aseqox/CISD_SecondarySeal_CarrollHigh.png",
+                "logoData": null
+            },
+            {
+                "id": "team_1776075838530_53",
+                "name": "Westlake",
+                "mascot": "Chaparals",
+                "city": "Austin",
+                "primaryColorHex": "#0D47A1",
+                "secondaryColorHex": "#E53935",
+                "tertiaryColorHex": "#FFFFFF",
+                "prestige": 95,
+                "region": "",
+                "conferenceId": "conf_1776075838529_4",
+                "abbreviation": "WES",
+                "offenseScheme": null,
+                "defenseScheme": null,
+                "logoURL": "https://www.txhslogoproject.com/wp-content/uploads/2018/12/Austin-Westlake-Chaparrals1-large.png",
+                "logoData": null
+            },
+            {
+                "id": "team_1776075838530_54",
+                "name": "Aledo",
+                "mascot": "Bearcats",
+                "city": "Aledo",
+                "primaryColorHex": "#FFA500",
+                "secondaryColorHex": "#000000",
+                "tertiaryColorHex": "#FFFFFF",
+                "prestige": 95,
+                "region": "",
+                "conferenceId": "conf_1776075838529_4",
+                "abbreviation": "ALE",
+                "offenseScheme": null,
+                "defenseScheme": null,
+                "logoURL": "https://www.txhslogoproject.com/wp-content/uploads/2019/03/Aledo-Bearcats-large.png",
+                "logoData": null
+            },
+            {
+                "id": "team_1776075838530_55",
+                "name": "Katy",
+                "mascot": "Tigers",
+                "city": "Katy",
+                "primaryColorHex": "#FF0000",
+                "secondaryColorHex": "#FFFFFF",
+                "tertiaryColorHex": "#FFFFFF",
+                "prestige": 94,
+                "region": "",
+                "conferenceId": "conf_1776075838529_4",
+                "abbreviation": "KAT",
+                "offenseScheme": null,
+                "defenseScheme": null,
+                "logoURL": "https://www.txhslogoproject.com/wp-content/uploads/2018/12/Katy-Tigers-large.png",
+                "logoData": null
+            },
+            {
+                "id": "team_1776075838530_56",
+                "name": "Allen",
+                "mascot": "Eagles",
+                "city": "Allen",
+                "primaryColorHex": "#0000FF",
+                "secondaryColorHex": "#FF0000",
+                "tertiaryColorHex": "#FFFFFF",
+                "prestige": 93,
+                "region": "",
+                "conferenceId": "conf_1776075838529_4",
+                "abbreviation": "ALL",
+                "offenseScheme": null,
+                "defenseScheme": null,
+                "logoURL": "https://www.thecommencementgroup.com/wp-content/uploads/2018/04/Allen-HS.png",
+                "logoData": null
+            },
+            {
+                "id": "team_1776075838530_57",
+                "name": "South Oak Cliff",
+                "mascot": "Golden Bears",
+                "city": "Dallas",
+                "primaryColorHex": "#000000",
+                "secondaryColorHex": "#FFC107",
+                "tertiaryColorHex": "#FFFFFF",
+                "prestige": 92,
+                "region": "",
+                "conferenceId": "conf_1776075838529_4",
+                "abbreviation": "SOC",
+                "offenseScheme": null,
+                "defenseScheme": null,
+                "logoURL": "https://www.txhslogoproject.com/wp-content/uploads/2019/03/Dallas-South-Oak-Cliff-Golden-Bears1-large.png",
+                "logoData": null
+            },
+            {
+                "id": "team_1776075838530_58",
+                "name": "Carter",
+                "mascot": "Cowboys",
+                "city": "Dallas",
+                "primaryColorHex": "#B71C1C",
+                "secondaryColorHex": "#9BDDFF",
+                "tertiaryColorHex": "#FFFFFF",
+                "prestige": 91,
+                "region": "",
+                "conferenceId": "conf_1776075838529_4",
+                "abbreviation": "CHS",
+                "offenseScheme": null,
+                "defenseScheme": null,
+                "logoURL": "https://txhslogoproject.com/wp-content/uploads/2019/03/Dallas-Carter-Cowboys-large-300x200.png",
+                "logoData": null
+            },
+            {
+                "id": "team_1776075838530_59",
+                "name": "Lake Travis",
+                "mascot": "Cavaliers",
+                "city": "Austin",
+                "primaryColorHex": "#FF0000",
+                "secondaryColorHex": "#000000",
+                "tertiaryColorHex": "#FFFFFF",
+                "prestige": 90,
+                "region": "",
+                "conferenceId": "conf_1776075838529_4",
+                "abbreviation": "LT",
+                "offenseScheme": null,
+                "defenseScheme": null,
+                "logoURL": "https://cdn1.sportngin.com/attachments/logo_graphic/8086/5082/LT_6Star_NEW_medium.png",
+                "logoData": null
+            },
+            {
+                "id": "team_1776075838530_60",
+                "name": "Atascocita",
+                "mascot": "Eagles",
+                "city": "Humble",
+                "primaryColorHex": "#FF0000",
+                "secondaryColorHex": "#0000FF",
+                "tertiaryColorHex": "#FFFFFF",
+                "prestige": 89,
+                "region": "",
+                "conferenceId": "conf_1776075838529_4",
+                "abbreviation": "ATA",
+                "offenseScheme": null,
+                "defenseScheme": null,
+                "logoURL": "https://www.txhslogoproject.com/wp-content/uploads/2018/12/Humble-Atascocita-Eagles-large.png",
+                "logoData": null
+            },
+            {
+                "id": "team_1776075838530_61",
+                "name": "Cedar Hill",
+                "mascot": "Longhorns",
+                "city": "Cedar Hill",
+                "primaryColorHex": "#212121",
+                "secondaryColorHex": "#D50000",
+                "tertiaryColorHex": "#FFFFFF",
+                "prestige": 88,
+                "region": "",
+                "conferenceId": "conf_1776075838529_4",
+                "abbreviation": "CHHS",
+                "offenseScheme": null,
+                "defenseScheme": null,
+                "logoURL": "https://txhslogoproject.com/wp-content/uploads/2018/11/Cedar-Hill-Longhorns1-large.png",
+                "logoData": null
+            },
+            {
+                "id": "team_1776075838530_62",
+                "name": "North Crowley",
+                "mascot": "Panthers",
+                "city": "Fort Worth",
+                "primaryColorHex": "#0000FF",
+                "secondaryColorHex": "#C0C0C0",
+                "tertiaryColorHex": "#FFFFFF",
+                "prestige": 87,
+                "region": "",
+                "conferenceId": "conf_1776075838529_4",
+                "abbreviation": "NC",
+                "offenseScheme": null,
+                "defenseScheme": null,
+                "logoURL": "https://www.txhslogoproject.com/wp-content/uploads/2018/11/North-Crowley-Panthers-large.png",
+                "logoData": null
+            },
+            {
+                "id": "team_1776075838530_63",
+                "name": "Longview",
+                "mascot": "Lobos",
+                "city": "Longview",
+                "primaryColorHex": "#008000",
+                "secondaryColorHex": "#FFD700",
+                "tertiaryColorHex": "#FFFFFF",
+                "prestige": 86,
+                "region": "",
+                "conferenceId": "conf_1776075838529_4",
+                "abbreviation": "LON",
+                "offenseScheme": null,
+                "defenseScheme": null,
+                "logoURL": "https://www.txhslogoproject.com/wp-content/uploads/Longview-Lobos-large-1.png",
+                "logoData": null
+            },
+            {
+                "id": "team_1776075838530_64",
+                "name": "Highland Park",
+                "mascot": "Scots",
+                "city": "Dallas",
+                "primaryColorHex": "#000080",
+                "secondaryColorHex": "#FFD700",
+                "tertiaryColorHex": "#FFFFFF",
+                "prestige": 85,
+                "region": "",
+                "conferenceId": "conf_1776075838529_4",
+                "abbreviation": "HP",
+                "offenseScheme": null,
+                "defenseScheme": null,
+                "logoURL": "https://3.files.edl.io/6ff7/23/02/09/143845-700c74c1-b146-4a08-9b3d-f82676699d38.png",
+                "logoData": null
+            }
+        ],
+        "independents": [],
+        "bowls": [],
+        "ny6Bowls": [],
+        "rivalries": [
+            {
+                "team1Id": "team_1776075838530_58",
+                "team2Id": "team_1776075838530_57",
+                "name": "Oak Cliff Super Bowl"
+            },
+            {
+                "team1Id": "team_1776075838530_57",
+                "team2Id": "team_1776075838530_58",
+                "name": "Oak Cliff Super Bowl"
+            },
+            {
+                "team1Id": "team_1776075838530_49",
+                "team2Id": "team_1776075838530_50",
+                "name": "Battle of Highway 67"
+            },
+            {
+                "team1Id": "team_1776075838530_50",
+                "team2Id": "team_1776075838530_49",
+                "name": "Battle of Highway 67"
+            },
+            {
+                "team1Id": "team_1776075838530_50",
+                "team2Id": "team_1776075838530_61",
+                "name": "Battle of Belt Line"
+            },
+            {
+                "team1Id": "team_1776075838530_61",
+                "team2Id": "team_1776075838530_50",
+                "name": "Battle of Belt Line"
+            },
+            {
+                "team1Id": "team_1776075838530_53",
+                "team2Id": "team_1776075838530_59",
+                "name": "Battle of the Lakes"
+            },
+            {
+                "team1Id": "team_1776075838530_59",
+                "team2Id": "team_1776075838530_53",
+                "name": "Battle of the Lakes"
+            },
+            {
+                "team1Id": "team_1776075838530_51",
+                "team2Id": "team_1776075838530_60",
+                "name": "Beltway 8 Rivalry"
+            },
+            {
+                "team1Id": "team_1776075838530_60",
+                "team2Id": "team_1776075838530_51",
+                "name": "Beltway 8 Rivalry"
+            },
+            {
+                "team1Id": "team_1776075838530_52",
+                "team2Id": "team_1776075838530_56",
+                "name": "DFW Showdown"
+            },
+            {
+                "team1Id": "team_1776075838530_56",
+                "team2Id": "team_1776075838530_52",
+                "name": "DFW Showdown"
+            }
+        ],
+        "protectedPairs": [
+            {
+                "team1Id": "team_1776075838530_58",
+                "team2Id": "team_1776075838530_57"
+            },
+            {
+                "team1Id": "team_1776075838530_57",
+                "team2Id": "team_1776075838530_58"
+            },
+            {
+                "team1Id": "team_1776075838530_49",
+                "team2Id": "team_1776075838530_50"
+            },
+            {
+                "team1Id": "team_1776075838530_50",
+                "team2Id": "team_1776075838530_49"
+            },
+            {
+                "team1Id": "team_1776075838530_50",
+                "team2Id": "team_1776075838530_61"
+            },
+            {
+                "team1Id": "team_1776075838530_61",
+                "team2Id": "team_1776075838530_50"
+            },
+            {
+                "team1Id": "team_1776075838530_53",
+                "team2Id": "team_1776075838530_59"
+            },
+            {
+                "team1Id": "team_1776075838530_59",
+                "team2Id": "team_1776075838530_53"
+            },
+            {
+                "team1Id": "team_1776075838530_51",
+                "team2Id": "team_1776075838530_60"
+            },
+            {
+                "team1Id": "team_1776075838530_60",
+                "team2Id": "team_1776075838530_51"
+            },
+            {
+                "team1Id": "team_1776075838530_52",
+                "team2Id": "team_1776075838530_56"
+            },
+            {
+                "team1Id": "team_1776075838530_56",
+                "team2Id": "team_1776075838530_52"
+            }
+        ],
+        "nationalChampionshipLogoURL": null,
+        "subdivisionTeams": [],
+        "awardCustomizations": [],
+        "createdAt": 1776075838531,
+        "updatedAt": 1776441576469,
+        "version": 14
+    }
+}
