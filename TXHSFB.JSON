@@ -13,56 +13,7 @@
                 "prestige": 95,
                 "divisions": [],
                 "requiredConferenceGames": 10,
-                "protectedPairs": [
-                    {
-                        "team1Id": "team_1776075838530_58",
-                        "team2Id": "team_1776075838530_57"
-                    },
-                    {
-                        "team1Id": "team_1776075838530_57",
-                        "team2Id": "team_1776075838530_58"
-                    },
-                    {
-                        "team1Id": "team_1776075838530_49",
-                        "team2Id": "team_1776075838530_50"
-                    },
-                    {
-                        "team1Id": "team_1776075838530_50",
-                        "team2Id": "team_1776075838530_49"
-                    },
-                    {
-                        "team1Id": "team_1776075838530_50",
-                        "team2Id": "team_1776075838530_61"
-                    },
-                    {
-                        "team1Id": "team_1776075838530_61",
-                        "team2Id": "team_1776075838530_50"
-                    },
-                    {
-                        "team1Id": "team_1776075838530_53",
-                        "team2Id": "team_1776075838530_59"
-                    },
-                    {
-                        "team1Id": "team_1776075838530_59",
-                        "team2Id": "team_1776075838530_53"
-                    },
-                    {
-                        "team1Id": "team_1776075838530_51",
-                        "team2Id": "team_1776075838530_60"
-                    },
-                    {
-                        "team1Id": "team_1776075838530_60",
-                        "team2Id": "team_1776075838530_51"
-                    },
-                    {
-                        "team1Id": "team_1776075838530_52",
-                        "team2Id": "team_1776075838530_56"
-                    },
-                    {
-                        "team1Id": "team_1776075838530_56",
-                        "team2Id": "team_1776075838530_52"
-                    }
-                ],
+                "protectedPairs": [],
                 "conferenceLogoURL": null,
                 "conferenceLogoData": null
             }
@@ -351,18 +302,8 @@
                 "name": "Oak Cliff Super Bowl"
             },
             {
-                "team1Id": "team_1776075838530_57",
-                "team2Id": "team_1776075838530_58",
-                "name": "Oak Cliff Super Bowl"
-            },
-            {
                 "team1Id": "team_1776075838530_49",
                 "team2Id": "team_1776075838530_50",
-                "name": "Battle of Highway 67"
-            },
-            {
-                "team1Id": "team_1776075838530_50",
-                "team2Id": "team_1776075838530_49",
                 "name": "Battle of Highway 67"
             },
             {
@@ -371,18 +312,8 @@
                 "name": "Battle of Belt Line"
             },
             {
-                "team1Id": "team_1776075838530_61",
-                "team2Id": "team_1776075838530_50",
-                "name": "Battle of Belt Line"
-            },
-            {
                 "team1Id": "team_1776075838530_53",
                 "team2Id": "team_1776075838530_59",
-                "name": "Battle of the Lakes"
-            },
-            {
-                "team1Id": "team_1776075838530_59",
-                "team2Id": "team_1776075838530_53",
                 "name": "Battle of the Lakes"
             },
             {
@@ -391,18 +322,8 @@
                 "name": "Beltway 8 Rivalry"
             },
             {
-                "team1Id": "team_1776075838530_60",
-                "team2Id": "team_1776075838530_51",
-                "name": "Beltway 8 Rivalry"
-            },
-            {
                 "team1Id": "team_1776075838530_52",
                 "team2Id": "team_1776075838530_56",
-                "name": "DFW Showdown"
-            },
-            {
-                "team1Id": "team_1776075838530_56",
-                "team2Id": "team_1776075838530_52",
                 "name": "DFW Showdown"
             }
         ],
@@ -412,48 +333,24 @@
                 "team2Id": "team_1776075838530_57"
             },
             {
-                "team1Id": "team_1776075838530_57",
-                "team2Id": "team_1776075838530_58"
-            },
-            {
                 "team1Id": "team_1776075838530_49",
                 "team2Id": "team_1776075838530_50"
-            },
-            {
-                "team1Id": "team_1776075838530_50",
-                "team2Id": "team_1776075838530_49"
             },
             {
                 "team1Id": "team_1776075838530_50",
                 "team2Id": "team_1776075838530_61"
             },
             {
-                "team1Id": "team_1776075838530_61",
-                "team2Id": "team_1776075838530_50"
-            },
-            {
                 "team1Id": "team_1776075838530_53",
                 "team2Id": "team_1776075838530_59"
-            },
-            {
-                "team1Id": "team_1776075838530_59",
-                "team2Id": "team_1776075838530_53"
             },
             {
                 "team1Id": "team_1776075838530_51",
                 "team2Id": "team_1776075838530_60"
             },
             {
-                "team1Id": "team_1776075838530_60",
-                "team2Id": "team_1776075838530_51"
-            },
-            {
                 "team1Id": "team_1776075838530_52",
                 "team2Id": "team_1776075838530_56"
-            },
-            {
-                "team1Id": "team_1776075838530_56",
-                "team2Id": "team_1776075838530_52"
             }
         ],
         "nationalChampionshipLogoURL": null,
